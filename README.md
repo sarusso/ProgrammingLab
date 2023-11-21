@@ -16,6 +16,9 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 
 ## News
 
+ - **17/11/2023**: Cambio orario: lezione il 22 dalle 11 alle 14, il 30 lezione annullata.
+
+
  - **9/11/2023**: Reset del repo per il nuovo anno accademico
 
 
@@ -23,44 +26,44 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 
 - **Lezione 1** (9/11/2023):
 
-     - Prima ora: Introduzione e strumenti | [slides](slides/Lezione1.pdf)
+     - Prima ora: Introduzione e strumenti | [slides](slides/Parte1.pdf)
      - Seconda e terza ora: intro/recap su Python - tipi dati, costrutti,
-funzioni, moduli, be pythonic  [slides](slides/Lezione2.pdf)
+funzioni, moduli, be pythonic  [slides](slides/Parte2.pdf)
 
 - **Lezione 2** (16/11/2023):
     - Prima ora: esercizio base su Python
-    - Seconda ora: i dati, interagire con i file ed il formato CSV | [slides](slides/Lezione3.pdf) | [shampoo_sales.csv](files/shampoo_sales.csv) | [shampoo_sales.txt](files/shampoo_sales.txt)
+    - Seconda ora: i dati, interagire con i file ed il formato CSV | [slides](slides/Parte3.pdf) | [shampoo_sales.csv](files/shampoo_sales.csv) | [shampoo_sales.txt](files/shampoo_sales.txt)
     - Terza ora: esercizio sull'interazione con i dati
 
-- **Lezione 3** (23/11/2023):
+- **Lezione 3** (22/11/2023):
 
-    - Prima e seconda ora: gli oggetti in Python | [slides](slides/Lezione4.pdf)
+    - Prima e seconda ora: gli oggetti in Python | [slides](slides/Parte4.pdf)
     - Terza ora: esercizio sugli oggetti
 
-- **Lezione 4** (30/11/2023):
+- **Lezione 4** (23/11/2023):
     - Prima ora: le eccezioni ed il flusso try-except
- | [slides](slides/Lezione5.pdf)
+ | [slides](slides/Parte5.pdf)
     - Seconda ora: esercizio sulle eccezioni
     - Terza ora: controllo degli input e sanitizzazione
- | [slides](slides/Lezione6.pdf)
+ | [slides](slides/Parte6.pdf)
 
 - **Lezione 5** (7/12/2023):
     -  Prima ora: esercizio su controllo degli input
     - Seconda ora: testing e unit tests
- | [slides](slides/Lezione7.pdf)
+ | [slides](slides/Parte7.pdf)
     - Terza ora: esercizio sul testing
 
 - **Lezione 6** (14/12/2023):
     -  Prima ora: lavorare veramente - creiamo un modello
- | [slides](slides/Lezione8.pdf)
+ | [slides](slides/Parte8.pdf)
     - Seconda e terza ora: esercizio su come creare un modello
 
 - **Lezione 7** (21/12/2023):
     - Prima ora: lavorare veramente - fittiamo un modello
- | [slides](slides/Lezione9.pdf)
+ | [slides](slides/Parte9.pdf)
     - Seconda ora: esercizio su come fittare un modello
     - Terza ora: lavorare veramente - valutiamo un modello
- | [slides](slides/Lezione10.pdf)
+ | [slides](slides/Parte10.pdf)
  
 - **Lezione 8** (11/1/2024): esercitazione d'esame
 
