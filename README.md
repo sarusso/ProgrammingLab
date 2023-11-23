@@ -38,7 +38,7 @@ funzioni, moduli, be pythonic  [slides](slides/Parte2.pdf)
 - **Lezione 3** (22/11/2023):
 
     - Prima e seconda ora: gli oggetti in Python | [slides](slides/Parte4.pdf)
-    - Terza ora: esercizio sugli oggetti
+    - Terza ora: esercizio sugli oggetti [Foglio esercizi 1](files/foglio1_esercizi.pdf)
 
 - **Lezione 4** (23/11/2023):
     - Prima ora: le eccezioni ed il flusso try-except
