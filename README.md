@@ -55,17 +55,17 @@ funzioni, moduli, be pythonic  [slides](slides/Parte2.pdf)
  | [slides](slides/Parte7.pdf)
     - Terza ora: esercizio sul testing
 
-- **Lezione 6** (14/12/2023 13:00 - 15:00 esatte):
+- **Lezione 6** (14/12/2023):
     -  Prima ora: lavorare veramente - creiamo un modello
  | [slides](slides/Parte8.pdf)
-    - Seconda e terza ora: esercizio su come creare un modello
+    - Seconda ora: esercizio su come creare un modello
+    - Terza ora: lavorare veramente - fittiamo un modello
+ | [slides](slides/Parte9.pdf)
 
 - **Lezione 7** (21/12/2023):
-    - Prima ora: lavorare veramente - fittiamo un modello
- | [slides](slides/Parte9.pdf)
-    - Seconda ora: esercizio su come fittare un modello
-    - Terza ora: lavorare veramente - valutiamo un modello
- | [slides](slides/Parte10.pdf)
+    - Prima ora esercizio su come fittare un modello
+    - Seconda ora: lavorare veramente - valutiamo un modello | [slides](slides/Parte10.pdf)
+    - Terza ora: soluzioni, discussione e conclusione del corso
  
 - **Lezione 8** (11/1/2024): esercitazione d'esame
 
