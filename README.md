@@ -16,6 +16,8 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 
 ## News
 
+ - **14/12/2023**: Online le [dispense](files/DispenseProgLab.pdf) in prima versione ufficiale.
+
  - **1/12/2023**: Online la [soluzione](soluzioni/lezione5) per l'esercizio della perte 5 e precedenti.
 
  - **17/11/2023**: Cambio orario: lezione il 22 dalle 11 alle 14, il 30 lezione annullata.
