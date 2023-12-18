@@ -16,6 +16,8 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 
 ## News
 
+ - **18/12/2023**: Fissati gli appelli invernali: Venerdì 16 Febbraio e Venerdì 1 Marzo, entrambi alle 11:00.
+
  - **14/12/2023**: Online le [dispense](files/DispenseProgLab.pdf) in prima versione ufficiale.
 
  - **1/12/2023**: Online la [soluzione](soluzioni/lezione5) per l'esercizio della perte 5 e precedenti.
