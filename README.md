@@ -16,6 +16,8 @@ Sito web del corso di Laboratorio di Programmazione per Intelligenza Artificiale
 
 ## News
 
+ - **20/12/2023**: Lezione del 21/12 annullata, verrà recuperata il 10/1 dalle 11 alle 14.
+
  - **18/12/2023**: Fissati gli appelli invernali: Venerdì 16 Febbraio e Venerdì 1 Marzo, entrambi alle 11:00.
 
  - **14/12/2023**: Online le [dispense](files/DispenseProgLab.pdf) in prima versione ufficiale.
@@ -66,7 +68,7 @@ funzioni, moduli, be pythonic  [slides](slides/Parte2.pdf)
     - Terza ora: lavorare veramente - fittiamo un modello
  | [slides](slides/Parte9.pdf)
 
-- **Lezione 7** (21/12/2023):
+- **Lezione 7** (10/1/2024 11:00-14:00):
     - Prima ora esercizio su come fittare un modello
     - Seconda ora: lavorare veramente - valutiamo un modello | [slides](slides/Parte10.pdf)
     - Terza ora: soluzioni, discussione e conclusione del corso
